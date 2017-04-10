@@ -1,0 +1,22 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "hass0302.edumedia.ca.reviewr"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "hass0302.edumedia.ca.reviewr"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "hass0302.edumedia.ca.reviewr"
+        }
+    }
+}
