@@ -7,12 +7,12 @@
         "files": {}
     },
     "installed_plugins": {
-        "cordova-plugin-whitelist": {
+        "cordova-plugin-camera": {
+            "CAMERA_USAGE_DESCRIPTION": "your usage message",
+            "PHOTOLIBRARY_USAGE_DESCRIPTION": " ",
             "PACKAGE_NAME": "hass0302.edumedia.ca.reviewr"
         },
-        "cordova-plugin-camera": {
-            "CAMERA_USAGE_DESCRIPTION": " ",
-            "PHOTOLIBRARY_USAGE_DESCRIPTION": " ",
+        "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "hass0302.edumedia.ca.reviewr"
         }
     },
